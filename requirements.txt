@@ -1,6 +1,5 @@
 tensorflow-cpu==2.15.0
 protobuf==3.20.3
-tf-keras
 streamlit>=1.35.0
 numpy
 pillow
