@@ -8,6 +8,8 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 import io
 
+
+
 # Set page title
 st.title("Dog vs Cat Classifier")
 
